@@ -8,6 +8,7 @@ autosplit: true
 retryOnFailure: false
 maxRetries: 1
 concurrency: 2
+tunnel: true
 env:
   TEST: ${TEST}
 pre:
