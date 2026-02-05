@@ -4,6 +4,7 @@ globalTimeout: 90
 testSuiteTimeout: 90
 testSuiteStep: 90
 runson: win
+tunnel: true
 autosplit: true
 retryOnFailure: false
 maxRetries: 1
